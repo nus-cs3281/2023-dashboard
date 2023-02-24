@@ -3,5 +3,7 @@ https://github.com/markbind/markbind.git,master,java;js;css;json;md;mbd;mbdf;njk
 https://github.com/reposense/reposense.git,master,java;js;ts;vue;scss;json;md;py;gradle;sh;yml,src/systemtest/resources/**,Yes,,,,
 https://github.com/se-edu/addressbook-level3.git,master,java;js;css;adoc;fxml;gradle,,Yes,,,,
 https://github.com/TEAMMATES/teammates.git,master,java;js;scss;md;py;tag;html;ts,,Yes,,,,
+https://github.com/TEAMMATES/teammates.git,v9-migration,java;js;scss;md;py;tag;html;ts,,Yes,,,,
+https://github.com/TEAMMATES/teammates.git,user-friendliness,java;js;scss;md;py;tag;html;ts,,Yes,,,,
 https://github.com/CATcher-org/CATcher.git,master,js;css;html;ts,,Yes,,,,
 https://github.com/CATcher-org/WATcher.git,main,js;css;html;ts,,Yes,,,,
