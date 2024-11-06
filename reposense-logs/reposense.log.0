@@ -1,762 +1,762 @@
-Nov 05, 2024 12:18:33 AM reposense.system.LogsManager addFileHandler
+Nov 06, 2024 12:18:26 AM reposense.system.LogsManager addFileHandler
 INFO: Log temp folder has been successfully created
-Nov 05, 2024 12:18:33 AM reposense.parser.CsvParser validateHeader
+Nov 06, 2024 12:18:26 AM reposense.parser.CsvParser validateHeader
 INFO: Parsed header of CSV file, repo-config.csv, and recognized columns: Ignore Standalone Config,  Repository's Location,  Branch,  Shallow Cloning,  File formats,  Ignore Glob List,  Ignore Authors List,  Find Previous Authors,  Ignore Commits List
-Nov 05, 2024 12:18:33 AM reposense.parser.CsvParser validateHeader
+Nov 06, 2024 12:18:26 AM reposense.parser.CsvParser validateHeader
 INFO: Parsed header of CSV file, author-config.csv, and recognized columns: Author's Emails,  Repository's Location,  Author's GitHub ID,  Branch,  Author's Display Name,  Ignore Glob List,  Author's Git Author Name
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - Echomo-Xinyu
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - Echomo-Xinyu
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - Echomo-Xinyu
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - Echomo-Xinyu
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - Echomo-Xinyu
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - Echomo-Xinyu
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - vigneshsankariyer1234567890
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias vigneshsankariyer1234567890 found. The alias will belong to the last author - vigneshsankariyer1234567890
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - vigneshsankariyer1234567890
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias vigneshsankariyer1234567890 found. The alias will belong to the last author - vigneshsankariyer1234567890
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - vigneshsankariyer1234567890
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias vigneshsankariyer1234567890 found. The alias will belong to the last author - vigneshsankariyer1234567890
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - vigneshsankariyer1234567890
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias vigneshsankariyer1234567890 found. The alias will belong to the last author - vigneshsankariyer1234567890
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - vigneshsankariyer1234567890
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias vigneshsankariyer1234567890 found. The alias will belong to the last author - vigneshsankariyer1234567890
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - vigneshsankariyer1234567890
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias vigneshsankariyer1234567890 found. The alias will belong to the last author - vigneshsankariyer1234567890
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - cheehongw
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - cheehongw
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - cheehongw
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - cheehongw
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - cheehongw
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - cheehongw
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - yucheng11122017
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias yucheng11122017 found. The alias will belong to the last author - yucheng11122017
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - yucheng11122017
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias yucheng11122017 found. The alias will belong to the last author - yucheng11122017
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - yucheng11122017
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias yucheng11122017 found. The alias will belong to the last author - yucheng11122017
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - yucheng11122017
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias yucheng11122017 found. The alias will belong to the last author - yucheng11122017
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - yucheng11122017
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias yucheng11122017 found. The alias will belong to the last author - yucheng11122017
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - yucheng11122017
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias yucheng11122017 found. The alias will belong to the last author - yucheng11122017
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias eltongohjh found. The alias will belong to the last author - EltonGohJH
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - EltonGohJH
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias eltongohjh found. The alias will belong to the last author - EltonGohJH
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - EltonGohJH
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias eltongohjh found. The alias will belong to the last author - EltonGohJH
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - EltonGohJH
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias eltongohjh found. The alias will belong to the last author - EltonGohJH
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - EltonGohJH
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias eltongohjh found. The alias will belong to the last author - EltonGohJH
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - EltonGohJH
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias eltongohjh found. The alias will belong to the last author - EltonGohJH
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - EltonGohJH
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - lhw-1
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - lhw-1
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - lhw-1
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - lhw-1
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - lhw-1
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - lhw-1
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias itsyme found. The alias will belong to the last author - itsyme
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - itsyme
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias itsyme found. The alias will belong to the last author - itsyme
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - itsyme
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias itsyme found. The alias will belong to the last author - itsyme
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - itsyme
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias itsyme found. The alias will belong to the last author - itsyme
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - itsyme
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias itsyme found. The alias will belong to the last author - itsyme
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - itsyme
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - sikai00
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias sikai00 found. The alias will belong to the last author - sikai00
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - sikai00
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias sikai00 found. The alias will belong to the last author - sikai00
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - sikai00
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias sikai00 found. The alias will belong to the last author - sikai00
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - sikai00
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias sikai00 found. The alias will belong to the last author - sikai00
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - sikai00
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias sikai00 found. The alias will belong to the last author - sikai00
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - sikai00
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias sikai00 found. The alias will belong to the last author - sikai00
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - ckcherry23
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - ckcherry23
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - ckcherry23
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - ckcherry23
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - ckcherry23
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - ckcherry23
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - vvidday
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias vvidday found. The alias will belong to the last author - vvidday
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - vvidday
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias vvidday found. The alias will belong to the last author - vvidday
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - vvidday
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias vvidday found. The alias will belong to the last author - vvidday
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - vvidday
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias vvidday found. The alias will belong to the last author - vvidday
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - vvidday
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias vvidday found. The alias will belong to the last author - vvidday
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - MarcusTXK
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - MarcusTXK
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - MarcusTXK
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - MarcusTXK
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - MarcusTXK
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - MarcusTXK
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias domlimm found. The alias will belong to the last author - domlimm
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - domlimm
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias domlimm found. The alias will belong to the last author - domlimm
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - domlimm
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias domlimm found. The alias will belong to the last author - domlimm
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - domlimm
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias domlimm found. The alias will belong to the last author - domlimm
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - domlimm
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias domlimm found. The alias will belong to the last author - domlimm
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias domlimm found. The alias will belong to the last author - domlimm
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - domlimm
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias domlimm found. The alias will belong to the last author - domlimm
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - domlimm
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - kevin9foong
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias kevin9foong found. The alias will belong to the last author - kevin9foong
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - kevin9foong
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias kevin9foong found. The alias will belong to the last author - kevin9foong
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - kevin9foong
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias kevin9foong found. The alias will belong to the last author - kevin9foong
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - kevin9foong
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias kevin9foong found. The alias will belong to the last author - kevin9foong
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - kevin9foong
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias kevin9foong found. The alias will belong to the last author - kevin9foong
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - kevin9foong
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias kevin9foong found. The alias will belong to the last author - kevin9foong
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - kevin9foong
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias kevin9foong found. The alias will belong to the last author - kevin9foong
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - weiquu
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias weiquu found. The alias will belong to the last author - weiquu
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - weiquu
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias weiquu found. The alias will belong to the last author - weiquu
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - weiquu
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias weiquu found. The alias will belong to the last author - weiquu
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - weiquu
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias weiquu found. The alias will belong to the last author - weiquu
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - weiquu
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias weiquu found. The alias will belong to the last author - weiquu
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - weiquu
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias weiquu found. The alias will belong to the last author - weiquu
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - weiquu
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias weiquu found. The alias will belong to the last author - weiquu
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - cedricongjh
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - cedricongjh
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - cedricongjh
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - cedricongjh
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - cedricongjh
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - cedricongjh
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - cedricongjh
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jasonqiu212 found. The alias will belong to the last author - jasonqiu212
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - jasonqiu212
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jasonqiu212 found. The alias will belong to the last author - jasonqiu212
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - jasonqiu212
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jasonqiu212 found. The alias will belong to the last author - jasonqiu212
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - jasonqiu212
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jasonqiu212 found. The alias will belong to the last author - jasonqiu212
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - jasonqiu212
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jasonqiu212 found. The alias will belong to the last author - jasonqiu212
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - jasonqiu212
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jasonqiu212 found. The alias will belong to the last author - jasonqiu212
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - jasonqiu212
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jasonqiu212 found. The alias will belong to the last author - jasonqiu212
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - jasonqiu212
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias eunicesim142 found. The alias will belong to the last author - EuniceSim142
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - EuniceSim142
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias eunicesim142 found. The alias will belong to the last author - EuniceSim142
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - EuniceSim142
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias eunicesim142 found. The alias will belong to the last author - EuniceSim142
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - EuniceSim142
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:26 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias eunicesim142 found. The alias will belong to the last author - EuniceSim142
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - EuniceSim142
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias eunicesim142 found. The alias will belong to the last author - EuniceSim142
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - EuniceSim142
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias eunicesim142 found. The alias will belong to the last author - EuniceSim142
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - EuniceSim142
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias eunicesim142 found. The alias will belong to the last author - EuniceSim142
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - EuniceSim142
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias hhdqirui found. The alias will belong to the last author - hhdqirui
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - hhdqirui
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias hhdqirui found. The alias will belong to the last author - hhdqirui
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - hhdqirui
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias hhdqirui found. The alias will belong to the last author - hhdqirui
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - hhdqirui
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias hhdqirui found. The alias will belong to the last author - hhdqirui
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - hhdqirui
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias hhdqirui found. The alias will belong to the last author - hhdqirui
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - hhdqirui
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias hhdqirui found. The alias will belong to the last author - hhdqirui
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - hhdqirui
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias hhdqirui found. The alias will belong to the last author - hhdqirui
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - hhdqirui
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - Echomo-Xinyu
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - vigneshsankariyer1234567890
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias vigneshsankariyer1234567890 found. The alias will belong to the last author - vigneshsankariyer1234567890
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - cheehongw
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - yucheng11122017
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias yucheng11122017 found. The alias will belong to the last author - yucheng11122017
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias eltongohjh found. The alias will belong to the last author - EltonGohJH
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - EltonGohJH
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - lhw-1
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias itsyme found. The alias will belong to the last author - itsyme
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - itsyme
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - sikai00
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias sikai00 found. The alias will belong to the last author - sikai00
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - ckcherry23
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - MarcusTXK
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias domlimm found. The alias will belong to the last author - domlimm
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - domlimm
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - kevin9foong
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias kevin9foong found. The alias will belong to the last author - kevin9foong
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - weiquu
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias weiquu found. The alias will belong to the last author - weiquu
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - cedricongjh
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jasonqiu212 found. The alias will belong to the last author - jasonqiu212
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - jasonqiu212
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias eunicesim142 found. The alias will belong to the last author - EuniceSim142
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - EuniceSim142
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias hhdqirui found. The alias will belong to the last author - hhdqirui
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - hhdqirui
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - Echomo-Xinyu
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - vigneshsankariyer1234567890
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias vigneshsankariyer1234567890 found. The alias will belong to the last author - vigneshsankariyer1234567890
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - cheehongw
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - yucheng11122017
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias yucheng11122017 found. The alias will belong to the last author - yucheng11122017
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias eltongohjh found. The alias will belong to the last author - EltonGohJH
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - EltonGohJH
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - lhw-1
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - sikai00
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias sikai00 found. The alias will belong to the last author - sikai00
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - ckcherry23
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - vvidday
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias vvidday found. The alias will belong to the last author - vvidday
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - MarcusTXK
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias domlimm found. The alias will belong to the last author - domlimm
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - domlimm
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - kevin9foong
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias kevin9foong found. The alias will belong to the last author - kevin9foong
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - weiquu
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias weiquu found. The alias will belong to the last author - weiquu
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - cedricongjh
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jasonqiu212 found. The alias will belong to the last author - jasonqiu212
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - jasonqiu212
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias eunicesim142 found. The alias will belong to the last author - EuniceSim142
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - EuniceSim142
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias hhdqirui found. The alias will belong to the last author - hhdqirui
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - hhdqirui
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - Echomo-Xinyu
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - vigneshsankariyer1234567890
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias vigneshsankariyer1234567890 found. The alias will belong to the last author - vigneshsankariyer1234567890
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - cheehongw
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - yucheng11122017
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias yucheng11122017 found. The alias will belong to the last author - yucheng11122017
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias eltongohjh found. The alias will belong to the last author - EltonGohJH
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - EltonGohJH
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - lhw-1
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias itsyme found. The alias will belong to the last author - itsyme
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - itsyme
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - sikai00
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias sikai00 found. The alias will belong to the last author - sikai00
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - ckcherry23
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - vvidday
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias vvidday found. The alias will belong to the last author - vvidday
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - MarcusTXK
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias domlimm found. The alias will belong to the last author - domlimm
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - domlimm
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - kevin9foong
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias kevin9foong found. The alias will belong to the last author - kevin9foong
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - weiquu
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias weiquu found. The alias will belong to the last author - weiquu
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - cedricongjh
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jasonqiu212 found. The alias will belong to the last author - jasonqiu212
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - jasonqiu212
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias eunicesim142 found. The alias will belong to the last author - EuniceSim142
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - EuniceSim142
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias hhdqirui found. The alias will belong to the last author - hhdqirui
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - hhdqirui
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - Echomo-Xinyu
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - vigneshsankariyer1234567890
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias vigneshsankariyer1234567890 found. The alias will belong to the last author - vigneshsankariyer1234567890
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - cheehongw
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - yucheng11122017
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias yucheng11122017 found. The alias will belong to the last author - yucheng11122017
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias eltongohjh found. The alias will belong to the last author - EltonGohJH
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - EltonGohJH
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - lhw-1
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias itsyme found. The alias will belong to the last author - itsyme
-Nov 05, 2024 12:18:33 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - itsyme
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - sikai00
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias sikai00 found. The alias will belong to the last author - sikai00
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - ckcherry23
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - vvidday
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias vvidday found. The alias will belong to the last author - vvidday
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - MarcusTXK
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias domlimm found. The alias will belong to the last author - domlimm
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - domlimm
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - kevin9foong
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias kevin9foong found. The alias will belong to the last author - kevin9foong
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - weiquu
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias weiquu found. The alias will belong to the last author - weiquu
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - cedricongjh
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jasonqiu212 found. The alias will belong to the last author - jasonqiu212
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - jasonqiu212
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias eunicesim142 found. The alias will belong to the last author - EuniceSim142
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - EuniceSim142
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias hhdqirui found. The alias will belong to the last author - hhdqirui
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - hhdqirui
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - Echomo-Xinyu
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - vigneshsankariyer1234567890
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias vigneshsankariyer1234567890 found. The alias will belong to the last author - vigneshsankariyer1234567890
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - cheehongw
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - yucheng11122017
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias yucheng11122017 found. The alias will belong to the last author - yucheng11122017
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias eltongohjh found. The alias will belong to the last author - EltonGohJH
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - EltonGohJH
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - lhw-1
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias itsyme found. The alias will belong to the last author - itsyme
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - itsyme
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - sikai00
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias sikai00 found. The alias will belong to the last author - sikai00
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - ckcherry23
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - vvidday
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias vvidday found. The alias will belong to the last author - vvidday
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - MarcusTXK
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias domlimm found. The alias will belong to the last author - domlimm
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - domlimm
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - kevin9foong
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias kevin9foong found. The alias will belong to the last author - kevin9foong
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - weiquu
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias weiquu found. The alias will belong to the last author - weiquu
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - cedricongjh
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jasonqiu212 found. The alias will belong to the last author - jasonqiu212
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - jasonqiu212
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias eunicesim142 found. The alias will belong to the last author - EuniceSim142
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - EuniceSim142
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias hhdqirui found. The alias will belong to the last author - hhdqirui
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - hhdqirui
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - Echomo-Xinyu
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - vigneshsankariyer1234567890
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias vigneshsankariyer1234567890 found. The alias will belong to the last author - vigneshsankariyer1234567890
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - cheehongw
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - yucheng11122017
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias yucheng11122017 found. The alias will belong to the last author - yucheng11122017
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias eltongohjh found. The alias will belong to the last author - EltonGohJH
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - EltonGohJH
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - lhw-1
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias itsyme found. The alias will belong to the last author - itsyme
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - itsyme
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - sikai00
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias sikai00 found. The alias will belong to the last author - sikai00
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - ckcherry23
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - vvidday
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias vvidday found. The alias will belong to the last author - vvidday
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - MarcusTXK
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias domlimm found. The alias will belong to the last author - domlimm
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - domlimm
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - kevin9foong
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias kevin9foong found. The alias will belong to the last author - kevin9foong
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - weiquu
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias weiquu found. The alias will belong to the last author - weiquu
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - cedricongjh
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jasonqiu212 found. The alias will belong to the last author - jasonqiu212
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - jasonqiu212
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias eunicesim142 found. The alias will belong to the last author - EuniceSim142
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - EuniceSim142
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias hhdqirui found. The alias will belong to the last author - hhdqirui
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - hhdqirui
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias domlimm found. The alias will belong to the last author - domlimm
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - kevin9foong
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias kevin9foong found. The alias will belong to the last author - kevin9foong
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - weiquu
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias weiquu found. The alias will belong to the last author - weiquu
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - cedricongjh
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jasonqiu212 found. The alias will belong to the last author - jasonqiu212
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - jasonqiu212
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias eunicesim142 found. The alias will belong to the last author - EuniceSim142
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - EuniceSim142
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias hhdqirui found. The alias will belong to the last author - hhdqirui
-Nov 05, 2024 12:18:34 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Nov 06, 2024 12:18:27 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias jiachen found. The alias will belong to the last author - hhdqirui
-Nov 05, 2024 12:18:34 AM reposense.git.GitConfig getGlobalGitLfsConfig
+Nov 06, 2024 12:18:27 AM reposense.git.GitConfig getGlobalGitLfsConfig
 WARNING: Could not get global git lfs config
 java.lang.RuntimeException: reposense.system.CommandRunnerProcessException: Error returned from command git config --global --list on path . :
 fatal: unable to read config file '/home/runner/.gitconfig': No such file or directory
@@ -772,135 +772,131 @@ fatal: unable to read config file '/home/runner/.gitconfig': No such file or dir
 	at reposense.system.CommandRunner.runCommand(CommandRunner.java:21)
 	... 3 more
 
-Nov 05, 2024 12:18:34 AM reposense.report.RepoCloner spawnCloneProcess
+Nov 06, 2024 12:18:27 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/TEAMMATES/teammates.git...
-Nov 05, 2024 12:18:34 AM reposense.report.RepoCloner spawnCloneProcess
-INFO: Cloning in parallel from https://github.com/markbind/markbind.git...
-Nov 05, 2024 12:18:34 AM reposense.report.RepoCloner spawnCloneProcess
+Nov 06, 2024 12:18:27 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/CATcher-org/WATcher.git...
-Nov 05, 2024 12:18:34 AM reposense.report.RepoCloner spawnCloneProcess
+Nov 06, 2024 12:18:27 AM reposense.report.RepoCloner spawnCloneProcess
+INFO: Cloning in parallel from https://github.com/markbind/markbind.git...
+Nov 06, 2024 12:18:27 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/reposense/reposense.git...
-Nov 05, 2024 12:18:34 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Waiting for cloning of https://github.com/reposense/reposense.git to complete...
-Nov 05, 2024 12:18:34 AM reposense.report.RepoCloner waitForCloneProcess
+Nov 06, 2024 12:18:27 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/markbind/markbind.git to complete...
-Nov 05, 2024 12:18:34 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Waiting for cloning of https://github.com/CATcher-org/WATcher.git to complete...
-Nov 05, 2024 12:18:34 AM reposense.report.RepoCloner waitForCloneProcess
+Nov 06, 2024 12:18:27 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/TEAMMATES/teammates.git to complete...
-Nov 05, 2024 12:18:35 AM reposense.report.RepoCloner waitForCloneProcess
+Nov 06, 2024 12:18:27 AM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/reposense/reposense.git to complete...
+Nov 06, 2024 12:18:27 AM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/CATcher-org/WATcher.git to complete...
+Nov 06, 2024 12:18:28 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/CATcher-org/WATcher.git completed!
-Nov 05, 2024 12:18:35 AM reposense.report.RepoCloner spawnCloneProcess
+Nov 06, 2024 12:18:28 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/CATcher-org/CATcher.git...
-Nov 05, 2024 12:18:35 AM reposense.report.RepoCloner waitForCloneProcess
+Nov 06, 2024 12:18:28 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/CATcher-org/CATcher.git to complete...
-Nov 05, 2024 12:18:35 AM reposense.report.ReportGenerator analyzeRepos
+Nov 06, 2024 12:18:28 AM reposense.report.ReportGenerator analyzeRepos
 INFO: [1/7] Analyzing https://github.com/CATcher-org/WATcher.git (main)...
-Nov 05, 2024 12:18:35 AM reposense.report.ReportGenerator updateRepoConfig
+Nov 06, 2024 12:18:28 AM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/CATcher-org/WATcher.git (main) does not contain a standalone config file.
-Nov 05, 2024 12:18:35 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Nov 06, 2024 12:18:28 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/CATcher-org/WATcher.git (main)...
-Nov 05, 2024 12:18:36 AM reposense.report.RepoCloner waitForCloneProcess
+Nov 06, 2024 12:18:30 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/CATcher-org/CATcher.git completed!
-Nov 05, 2024 12:18:36 AM reposense.report.RepoCloner spawnCloneProcess
+Nov 06, 2024 12:18:30 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/se-edu/addressbook-level3.git...
-Nov 05, 2024 12:18:36 AM reposense.report.ReportGenerator analyzeRepos
+Nov 06, 2024 12:18:30 AM reposense.report.ReportGenerator analyzeRepos
 INFO: [2/7] Analyzing https://github.com/CATcher-org/CATcher.git (master)...
-Nov 05, 2024 12:18:36 AM reposense.report.RepoCloner waitForCloneProcess
+Nov 06, 2024 12:18:30 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/se-edu/addressbook-level3.git to complete...
-Nov 05, 2024 12:18:37 AM reposense.report.ReportGenerator updateRepoConfig
+Nov 06, 2024 12:18:30 AM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/CATcher-org/CATcher.git (master) does not contain a standalone config file.
-Nov 05, 2024 12:18:37 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Nov 06, 2024 12:18:30 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/CATcher-org/CATcher.git (master)...
-Nov 05, 2024 12:18:38 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Nov 06, 2024 12:18:32 AM reposense.report.RepoCloner waitForCloneProcess
+INFO: Cloning of https://github.com/markbind/markbind.git completed!
+Nov 06, 2024 12:18:32 AM reposense.report.ReportGenerator analyzeRepos
+INFO: [3/7] Analyzing https://github.com/markbind/markbind.git (master)...
+Nov 06, 2024 12:18:32 AM reposense.report.RepoCloner waitForCloneProcess
+INFO: Cloning of https://github.com/se-edu/addressbook-level3.git completed!
+Nov 06, 2024 12:18:32 AM reposense.report.ReportGenerator analyzeRepos
+INFO: [4/7] Analyzing https://github.com/se-edu/addressbook-level3.git (master)...
+Nov 06, 2024 12:18:32 AM reposense.report.ReportGenerator updateRepoConfig
+INFO: https://github.com/se-edu/addressbook-level3.git (master) does not contain a standalone config file.
+Nov 06, 2024 12:18:32 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+INFO: Extracting relevant file info from https://github.com/se-edu/addressbook-level3.git (master)...
+Nov 06, 2024 12:18:33 AM reposense.report.ReportGenerator updateRepoConfig
+INFO: https://github.com/markbind/markbind.git (master) does not contain a standalone config file.
+Nov 06, 2024 12:18:33 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+INFO: Extracting relevant file info from https://github.com/markbind/markbind.git (master)...
+Nov 06, 2024 12:18:36 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/CATcher-org/WATcher.git (main)...
-Nov 05, 2024 12:18:38 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Nov 06, 2024 12:18:37 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/CATcher-org/WATcher.git (main)...
-Nov 05, 2024 12:18:38 AM reposense.report.ReportGenerator analyzeRepo
+Nov 06, 2024 12:18:37 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/CATcher-org/WATcher.git (main) completed!
-Nov 05, 2024 12:18:39 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Nov 06, 2024 12:18:37 AM reposense.report.RepoCloner waitForCloneProcess
+INFO: Cloning of https://github.com/reposense/reposense.git completed!
+Nov 06, 2024 12:18:38 AM reposense.report.ReportGenerator analyzeRepos
+INFO: [5/7] Analyzing https://github.com/reposense/reposense.git (master)...
+Nov 06, 2024 12:18:38 AM reposense.report.ReportGenerator updateRepoConfig
+INFO: Ignoring standalone config file in https://github.com/reposense/reposense.git (master).
+Nov 06, 2024 12:18:38 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+INFO: Extracting relevant file info from https://github.com/reposense/reposense.git (master)...
+Nov 06, 2024 12:18:38 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/se-edu/addressbook-level3.git (master)...
+Nov 06, 2024 12:18:38 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+INFO: Analyzing commits info for https://github.com/se-edu/addressbook-level3.git (master)...
+Nov 06, 2024 12:18:38 AM reposense.report.ReportGenerator analyzeRepo
+INFO: Analysis of https://github.com/se-edu/addressbook-level3.git (master) completed!
+Nov 06, 2024 12:18:39 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/CATcher-org/CATcher.git (master)...
-Nov 05, 2024 12:18:39 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Nov 06, 2024 12:18:39 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/CATcher-org/CATcher.git (master)...
-Nov 05, 2024 12:18:39 AM reposense.report.ReportGenerator analyzeRepo
+Nov 06, 2024 12:18:39 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/CATcher-org/CATcher.git (master) completed!
-Nov 05, 2024 12:20:50 AM reposense.report.RepoCloner waitForCloneProcess
-WARNING: Exception met while trying to clone the repo "se-edu/addressbook-level3[master]", will skip this repo.
-reposense.system.CommandRunnerProcessException: Error returned from command git clone --bare 'https://github.com/se-edu/addressbook-level3.git' 'repos/se-edu_addressbook-level3/addressbook-level3_bare' on path . :
-Cloning into bare repository 'repos/se-edu_addressbook-level3/addressbook-level3_bare'...
-fatal: unable to access 'https://github.com/se-edu/addressbook-level3.git/': Failed to connect to github.com port 443 after 133651 ms: Connection timed out
+Nov 06, 2024 12:18:47 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/reposense/reposense.git (master)...
+Nov 06, 2024 12:18:47 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+INFO: Analyzing commits info for https://github.com/reposense/reposense.git (master)...
+Nov 06, 2024 12:18:48 AM reposense.report.ReportGenerator analyzeRepo
+INFO: Analysis of https://github.com/reposense/reposense.git (master) completed!
+Nov 06, 2024 12:18:51 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/markbind/markbind.git (master)...
+Nov 06, 2024 12:18:52 AM reposense.report.RepoCloner waitForCloneProcess
+INFO: Cloning of https://github.com/TEAMMATES/teammates.git completed!
+Nov 06, 2024 12:18:52 AM reposense.report.ReportGenerator analyzeRepos
+INFO: [6/7] Analyzing https://github.com/TEAMMATES/teammates.git (master)...
+Nov 06, 2024 12:18:52 AM reposense.report.ReportGenerator updateRepoConfig
+INFO: https://github.com/TEAMMATES/teammates.git (master) does not contain a standalone config file.
+Nov 06, 2024 12:18:52 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+INFO: Extracting relevant file info from https://github.com/TEAMMATES/teammates.git (master)...
+Nov 06, 2024 12:18:52 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+INFO: Analyzing commits info for https://github.com/markbind/markbind.git (master)...
+Nov 06, 2024 12:18:52 AM reposense.report.ReportGenerator analyzeRepo
+INFO: Analysis of https://github.com/markbind/markbind.git (master) completed!
+Nov 06, 2024 12:19:45 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/TEAMMATES/teammates.git (master)...
+Nov 06, 2024 12:19:46 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+INFO: Analyzing commits info for https://github.com/TEAMMATES/teammates.git (master)...
+Nov 06, 2024 12:19:46 AM reposense.report.ReportGenerator analyzeRepo
+INFO: Analysis of https://github.com/TEAMMATES/teammates.git (master) completed!
+Nov 06, 2024 12:19:46 AM reposense.report.ReportGenerator analyzeRepos
+INFO: [7/7] Analyzing https://github.com/TEAMMATES/teammates.git (v9-migration)...
+Nov 06, 2024 12:19:46 AM reposense.report.ReportGenerator analyzeRepos
+SEVERE: Branch v9-migration does not exist in https://github.com/TEAMMATES/teammates.git! Analysis terminated.
+reposense.git.exception.GitBranchException: reposense.system.CommandRunnerProcessException: Error returned from command git rev-parse --verify v9-migration on path repos/TEAMMATES_teammates/teammates_bare :
+fatal: Needed a single revision
 
-	at reposense.system.CommandRunnerProcess.waitForProcess(CommandRunnerProcess.java:46)
-	at reposense.report.RepoCloner.waitForCloneProcess(RepoCloner.java:323)
-	at reposense.report.RepoCloner.getClonedRepoLocation(RepoCloner.java:123)
-	at reposense.report.ReportGenerator.cloneRepo(ReportGenerator.java:270)
-	at reposense.report.ReportGenerator.lambda$cloneAndAnalyzeRepos$0(ReportGenerator.java:213)
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700)
+	at reposense.git.GitRevParse.assertBranchExists(GitRevParse.java:24)
+	at reposense.report.ReportGenerator.analyzeRepos(ReportGenerator.java:311)
+	at reposense.report.ReportGenerator.lambda$cloneAndAnalyzeRepos$1(ReportGenerator.java:220)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478)
 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
 	at java.base/java.lang.Thread.run(Thread.java:829)
 
-Nov 05, 2024 12:23:42 AM reposense.report.RepoCloner waitForCloneProcess
-WARNING: Exception met while trying to clone the repo "TEAMMATES/teammates[master]", will skip this repo.
-reposense.system.CommandRunnerProcessException: Error returned from command git clone --bare 'https://github.com/TEAMMATES/teammates.git' 'repos/TEAMMATES_teammates/teammates_bare' on path . :
-Cloning into bare repository 'repos/TEAMMATES_teammates/teammates_bare'...
-error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
-error: 7014 bytes of body are still expected
-fetch-pack: unexpected disconnect while reading sideband packet
-fatal: early EOF
-fatal: fetch-pack: invalid index-pack output
-
-	at reposense.system.CommandRunnerProcess.waitForProcess(CommandRunnerProcess.java:46)
-	at reposense.report.RepoCloner.waitForCloneProcess(RepoCloner.java:323)
-	at reposense.report.RepoCloner.getClonedRepoLocation(RepoCloner.java:123)
-	at reposense.report.ReportGenerator.cloneRepo(ReportGenerator.java:270)
-	at reposense.report.ReportGenerator.lambda$cloneAndAnalyzeRepos$0(ReportGenerator.java:213)
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700)
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
-	at java.base/java.lang.Thread.run(Thread.java:829)
-
-Nov 05, 2024 12:23:42 AM reposense.report.RepoCloner waitForCloneProcess
-WARNING: Exception met while trying to clone the repo "markbind/markbind[master]", will skip this repo.
-reposense.system.CommandRunnerProcessException: Error returned from command git clone --bare 'https://github.com/markbind/markbind.git' 'repos/markbind_markbind/markbind_bare' on path . :
-Cloning into bare repository 'repos/markbind_markbind/markbind_bare'...
-error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
-error: 4665 bytes of body are still expected
-fetch-pack: unexpected disconnect while reading sideband packet
-fatal: early EOF
-fatal: fetch-pack: invalid index-pack output
-
-	at reposense.system.CommandRunnerProcess.waitForProcess(CommandRunnerProcess.java:46)
-	at reposense.report.RepoCloner.waitForCloneProcess(RepoCloner.java:323)
-	at reposense.report.RepoCloner.getClonedRepoLocation(RepoCloner.java:123)
-	at reposense.report.ReportGenerator.cloneRepo(ReportGenerator.java:270)
-	at reposense.report.ReportGenerator.lambda$cloneAndAnalyzeRepos$0(ReportGenerator.java:213)
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700)
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
-	at java.base/java.lang.Thread.run(Thread.java:829)
-
-Nov 05, 2024 12:24:11 AM reposense.report.RepoCloner waitForCloneProcess
-WARNING: Exception met while trying to clone the repo "reposense/reposense[master]", will skip this repo.
-reposense.system.CommandRunnerProcessException: Error returned from command git clone --bare 'https://github.com/reposense/reposense.git' 'repos/reposense_reposense/reposense_bare' on path . :
-Cloning into bare repository 'repos/reposense_reposense/reposense_bare'...
-error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
-error: 6327 bytes of body are still expected
-fetch-pack: unexpected disconnect while reading sideband packet
-fatal: early EOF
-fatal: fetch-pack: invalid index-pack output
-
-	at reposense.system.CommandRunnerProcess.waitForProcess(CommandRunnerProcess.java:46)
-	at reposense.report.RepoCloner.waitForCloneProcess(RepoCloner.java:323)
-	at reposense.report.RepoCloner.getClonedRepoLocation(RepoCloner.java:123)
-	at reposense.report.ReportGenerator.cloneRepo(ReportGenerator.java:270)
-	at reposense.report.ReportGenerator.lambda$cloneAndAnalyzeRepos$0(ReportGenerator.java:213)
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700)
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
-	at java.base/java.lang.Thread.run(Thread.java:829)
-
-Nov 05, 2024 12:24:11 AM reposense.report.ReportGenerator generateReposReport
+Nov 06, 2024 12:19:46 AM reposense.report.ReportGenerator generateReposReport
 INFO: The report is generated at /home/runner/work/2023-dashboard/2023-dashboard/reposense-report
-Nov 05, 2024 12:24:11 AM reposense.RepoSense main
-INFO: Elapsed processing time: 5 minute(s) 37.77 second(s)
+Nov 06, 2024 12:19:46 AM reposense.RepoSense main
+INFO: Elapsed processing time: 1 minute(s) 20.12 second(s)
